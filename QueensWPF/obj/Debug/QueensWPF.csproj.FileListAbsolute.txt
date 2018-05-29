@@ -1,0 +1,15 @@
+C:\Users\delyanpeev\source\repos\QueensWPF\QueensWPF\bin\Debug\QueensWPF.exe.config
+C:\Users\delyanpeev\source\repos\QueensWPF\QueensWPF\bin\Debug\QueensWPF.exe
+C:\Users\delyanpeev\source\repos\QueensWPF\QueensWPF\bin\Debug\QueensWPF.pdb
+C:\Users\delyanpeev\source\repos\QueensWPF\QueensWPF\obj\Debug\QueensWPF.csprojAssemblyReference.cache
+C:\Users\delyanpeev\source\repos\QueensWPF\QueensWPF\obj\Debug\App.g.cs
+C:\Users\delyanpeev\source\repos\QueensWPF\QueensWPF\obj\Debug\QueensWPF_MarkupCompile.cache
+C:\Users\delyanpeev\source\repos\QueensWPF\QueensWPF\obj\Debug\QueensWPF_MarkupCompile.lref
+C:\Users\delyanpeev\source\repos\QueensWPF\QueensWPF\obj\Debug\QueensWPF.g.resources
+C:\Users\delyanpeev\source\repos\QueensWPF\QueensWPF\obj\Debug\QueensWPF.csproj.CoreCompileInputs.cache
+C:\Users\delyanpeev\source\repos\QueensWPF\QueensWPF\obj\Debug\QueensWPF.exe
+C:\Users\delyanpeev\source\repos\QueensWPF\QueensWPF\obj\Debug\QueensWPF.pdb
+C:\Users\delyanpeev\source\repos\QueensWPF\QueensWPF\obj\Debug\MainWindow.g.cs
+C:\Users\delyanpeev\source\repos\QueensWPF\QueensWPF\obj\Debug\MainWindow.baml
+C:\Users\delyanpeev\source\repos\QueensWPF\QueensWPF\obj\Debug\Game.g.cs
+C:\Users\delyanpeev\source\repos\QueensWPF\QueensWPF\obj\Debug\Game.baml
